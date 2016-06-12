@@ -1,0 +1,6 @@
+[package]
+name = "ola"
+version = "0.1.0"
+authors = ["rmadr"]
+
+[dependencies]
