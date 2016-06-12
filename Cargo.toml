@@ -1,6 +1,7 @@
 [package]
 name = "ola"
 version = "0.1.0"
-authors = ["rmadr"]
+authors = ["Robby Madruga <robbymadruga@gmail.com>"]
 
 [dependencies]
+protobuf = "1.0.21"
